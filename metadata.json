@@ -1,0 +1,8 @@
+{
+  "name": "Akaar Agency",
+  "description": "Award-winning creative, social, media & experiential agency portfolio with smooth animations, interactive showreel, video case studies, and customizable content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
